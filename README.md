@@ -1,2 +1,2 @@
-# ML-algorithms-from-scratch
+# ML-algorithms-from-scratch ![](https://visitor-badge.laobi.icu/badge?page_id=akash720.ML-algo-from-scratch.readme)
 This repository contains implementation of some basic Machine Learning Algorithms from scratch. The language used is Python and data used is from Stanford ML course.
