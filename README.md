@@ -5,3 +5,4 @@ Following is the list of algorithms covered so far:
 1. [Linear Regression with single and multiple variables](Linear_Regression.ipynb)
 2. [Logistic Regression](Logistic_Regression.ipynb)
 3. [Regularized Linear Regression with single and multiple variables](Regularized_Linear_Regression.ipynb)
+4. [Regularized Logistic Regression](Regularized_Logistic_Regression.ipynb)
